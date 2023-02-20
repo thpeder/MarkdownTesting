@@ -1,4 +1,4 @@
 # MarkdownTesting
 
 
-![Door opening](Open.gif)
+![Door opening](https://github.com/thpeder/MarkdownTesting/raw/main/Open.gif)
